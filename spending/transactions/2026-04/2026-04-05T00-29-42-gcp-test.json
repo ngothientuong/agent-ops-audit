@@ -1,0 +1,23 @@
+{
+  "id": "test-tx-flush",
+  "timestamp": "2026-04-04T14:10:00Z",
+  "project": "test",
+  "vendor": "gcp",
+  "amount_cents": 200,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Test flush",
+    "where": "gcp.com",
+    "why": "Verify pending flush",
+    "who": "test",
+    "how_helps": "Validates flush pipeline",
+    "expected_return": "N/A"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "implementer",
+  "awp_phase": "3",
+  "awp_slice": "2"
+}
