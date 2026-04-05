@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-04-05T00:29:42Z",
-  "projects": {
-    "test": {
-      "monthly_ceiling_cents": 100000,
-      "months": {
-        "2026-04": {
-          "spent_cents": 700,
-          "transaction_count": 2,
-          "last_transaction_at": "2026-04-05T00:29:42Z"
-        }
-      }
-    }
-  },
+  "updated_at": "2026-04-04T00:00:00Z",
+  "projects": {},
   "global": {
     "per_transaction_ceiling_cents": 20000,
     "per_subscription_ceiling_cents": 20000,
