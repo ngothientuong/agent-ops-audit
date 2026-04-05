@@ -1,0 +1,23 @@
+{
+  "id": "test-tx-001",
+  "timestamp": "2026-04-04T14:00:00Z",
+  "project": "test",
+  "vendor": "stripe",
+  "amount_cents": 500,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Test transaction for verification",
+    "where": "stripe.com",
+    "why": "Testing audit logger",
+    "who": "test project",
+    "how_helps": "Validates audit pipeline",
+    "expected_return": "N/A — test"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "implementer",
+  "awp_phase": "3",
+  "awp_slice": "2"
+}
