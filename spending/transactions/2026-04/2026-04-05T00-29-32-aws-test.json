@@ -1,0 +1,23 @@
+{
+  "id": "test-tx-pending",
+  "timestamp": "2026-04-04T14:05:00Z",
+  "project": "test",
+  "vendor": "aws",
+  "amount_cents": 300,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Test pending",
+    "where": "aws.com",
+    "why": "Testing pending retry",
+    "who": "test project",
+    "how_helps": "Validates pending pipeline",
+    "expected_return": "N/A"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "implementer",
+  "awp_phase": "3",
+  "awp_slice": "2"
+}
