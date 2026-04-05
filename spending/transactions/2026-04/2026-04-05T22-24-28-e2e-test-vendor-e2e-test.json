@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-05T22-24-27-e2e-test-vendor-e2e-test",
+  "timestamp": "2026-04-05T22:24:27Z",
+  "project": "e2e-test",
+  "vendor": "e2e-test-vendor",
+  "amount_cents": 500,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "E2E test subscription",
+    "where": "e2e-test-vendor.com",
+    "why": "Testing the full spend log pipeline",
+    "who": "credential-proxy e2e test",
+    "how_helps": "Validates end-to-end integration",
+    "expected_return": "System reliability confirmation"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
