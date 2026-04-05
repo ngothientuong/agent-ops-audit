@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-04T00:00:00Z",
+  "projects": {},
+  "global": {
+    "per_transaction_ceiling_cents": 20000,
+    "per_subscription_ceiling_cents": 20000,
+    "trading_seed_ceiling_cents": 250000,
+    "default_monthly_ceiling_cents": 100000
+  }
+}
