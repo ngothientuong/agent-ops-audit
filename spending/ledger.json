@@ -6,8 +6,8 @@
       "monthly_ceiling_cents": 100000,
       "months": {
         "2026-04": {
-          "spent_cents": 5000,
-          "transaction_count": 1,
+          "spent_cents": 95000,
+          "transaction_count": 10,
           "last_transaction_at": "2026-04-05T00:35:32Z"
         }
       }
