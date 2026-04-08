@@ -1,0 +1,13 @@
+{
+  "service": "cloudflare-r2",
+  "vendor": "cloudflare",
+  "project": "boofire",
+  "signup_method": "Browser (Google SSO + PayPal billing)",
+  "email": "ngothientuong@gmail.com",
+  "account_id": "dd7735374664b20815d6115834899eab",
+  "plan": "R2 Free Tier (pay-as-you-go)",
+  "api_token_name": "boofire-r2-admin",
+  "kv_keys": ["cloudflare-account-id", "cloudflare-r2-api-token", "cloudflare-r2-access-key-id", "cloudflare-r2-secret-access-key", "cloudflare-r2-endpoint"],
+  "timestamp": "2026-04-08T00:00:00Z",
+  "notes": "Account created via Google SSO. R2 activated with PayPal billing. Admin R/W API token created with S3 credentials."
+}
