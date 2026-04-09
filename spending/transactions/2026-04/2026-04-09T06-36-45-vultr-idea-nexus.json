@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-09T06-36-44-vultr-idea-nexus",
+  "timestamp": "2026-04-09T06:36:44Z",
+  "project": "idea-nexus",
+  "vendor": "vultr",
+  "amount_cents": 2400,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Vultr VM vc2-2c-4gb ($24/mo) for idea-nexus deployment",
+    "where": "Vultr (vultr.com) \u2014 Dallas region",
+    "why": "Hosts Qdrant + Honcho + MCP server + embedding model for master memory solution",
+    "who": "Boofire / AnAn's Store LLC",
+    "how_helps": "Enables centralized knowledge graph, cross-session memory, drift detection for all agent types",
+    "expected_return": "Foundation infrastructure \u2014 reduces context waste, enables self-improving multi-agent memory"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
