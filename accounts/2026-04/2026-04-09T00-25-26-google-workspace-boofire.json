@@ -1,0 +1,13 @@
+{
+  "service": "google-workspace",
+  "account_email": "tuong@boofire.ai",
+  "plan": "Business Plus",
+  "domain": "boofire.ai",
+  "company": "AnAn's Store LLC",
+  "trial_start": "2026-04-08",
+  "trial_end": "2026-04-22",
+  "monthly_cost_cents": 1980,
+  "payment_method": "Visa ending 0299",
+  "auto_renewal": true,
+  "notes": "14-day free trial. 25% discount for first 3 months ($19.80/mo), then $26.40/mo. Domain verified, Gmail activated with MX record (SMTP.GOOGLE.COM priority 1). DNS via Azure DNS zone in tngomgmt-rg."
+}
