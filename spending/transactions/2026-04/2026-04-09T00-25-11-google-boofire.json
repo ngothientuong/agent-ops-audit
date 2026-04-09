@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-09T00-25-10-google-boofire",
+  "timestamp": "2026-04-09T00:25:10Z",
+  "project": "boofire",
+  "vendor": "google",
+  "amount_cents": 1980,
+  "currency": "USD",
+  "category": "subscription",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Google Workspace Business Plus subscription for boofire.ai domain",
+    "where": "Google Workspace (workspace.google.com)",
+    "why": "Professional email (tuong@boofire.ai) and productivity suite for AnAn's Store LLC / boofire.ai business operations",
+    "who": "AnAn's Store LLC (EIN 85-3760911)",
+    "how_helps": "Enables custom domain email, Google Drive, Calendar, Meet for business communications and collaboration",
+    "expected_return": "Professional business identity, customer-facing email, document management. 14-day free trial, then $19.80/mo (25% off for 3 months, then $26.40/mo)"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
