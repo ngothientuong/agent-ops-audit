@@ -1,0 +1,13 @@
+{
+  "vendor": "anthropic",
+  "project": "idea-nexus",
+  "amount_cents": 10000,
+  "amount_formatted": "$100.00",
+  "currency": "USD",
+  "payment_method": "card",
+  "auto_renewal": false,
+  "description": "Anthropic API credits (prepaid) for Honcho Opus deriver",
+  "org": "Boofire",
+  "console_url": "https://console.anthropic.com",
+  "timestamp": "2026-04-09T06:26:00Z"
+}
