@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-09T06-26-51-anthropic-idea-nexus",
+  "timestamp": "2026-04-09T06:26:51Z",
+  "project": "idea-nexus",
+  "vendor": "anthropic",
+  "amount_cents": 10000,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Anthropic API credits ($100 prepaid)",
+    "where": "console.anthropic.com (Boofire org)",
+    "why": "Honcho Opus deriver for idea-nexus master memory solution",
+    "who": "Boofire / AnAn's Store LLC",
+    "how_helps": "Enables cross-session reasoning, user modeling, and advisory drift detection in idea-nexus",
+    "expected_return": "Foundation layer for all agent memory \u2014 reduces context waste across all projects"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
