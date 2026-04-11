@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-11T19-55-19-claude-pro-openclaw-ngothientuong",
+  "timestamp": "2026-04-11T19:55:19Z",
+  "project": "openclaw-ngothientuong",
+  "vendor": "claude-pro",
+  "amount_cents": 2000,
+  "currency": "USD",
+  "category": "subscription",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Claude Pro monthly subscription $20 \u2014 browser AI for research + validation",
+    "where": "claude.ai",
+    "why": "OpenClaw multi-agent gateway deployment \u2014 API access required for agent capabilities",
+    "who": "tngo (user-directed)",
+    "how_helps": "Enables OpenClaw agents to access claude-pro services for production operation",
+    "expected_return": "Core infrastructure for personal AI agent platform \u2014 no direct revenue, productivity multiplier"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "copilot",
+  "awp_phase": "",
+  "awp_slice": ""
+}
