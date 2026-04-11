@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-11T19-54-59-fal-openclaw-ngothientuong",
+  "timestamp": "2026-04-11T19:54:59Z",
+  "project": "openclaw-ngothientuong",
+  "vendor": "fal",
+  "amount_cents": 10000,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "API credit top-up $100 \u2014 image gen (flux-2-pro) + video gen (seedance-2.0)",
+    "where": "fal.ai",
+    "why": "OpenClaw multi-agent gateway deployment \u2014 API access required for agent capabilities",
+    "who": "tngo (user-directed)",
+    "how_helps": "Enables OpenClaw agents to access fal services for production operation",
+    "expected_return": "Core infrastructure for personal AI agent platform \u2014 no direct revenue, productivity multiplier"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "copilot",
+  "awp_phase": "",
+  "awp_slice": ""
+}
