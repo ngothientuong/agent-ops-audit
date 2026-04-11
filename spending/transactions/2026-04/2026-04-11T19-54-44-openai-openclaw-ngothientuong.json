@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-11T19-54-43-openai-openclaw-ngothientuong",
+  "timestamp": "2026-04-11T19:54:43Z",
+  "project": "openclaw-ngothientuong",
+  "vendor": "openai",
+  "amount_cents": 10000,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "API credit top-up $100 \u2014 TTS fallback, Whisper, embeddings",
+    "where": "platform.openai.com",
+    "why": "OpenClaw multi-agent gateway deployment \u2014 API access required for agent capabilities",
+    "who": "tngo (user-directed)",
+    "how_helps": "Enables OpenClaw agents to access openai services for production operation",
+    "expected_return": "Core infrastructure for personal AI agent platform \u2014 no direct revenue, productivity multiplier"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "copilot",
+  "awp_phase": "",
+  "awp_slice": ""
+}
