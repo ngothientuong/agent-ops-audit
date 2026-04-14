@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-14T22-02-05-anthropic-claude-code-openclaw-node",
+  "timestamp": "2026-04-14T22:02:05Z",
+  "project": "claude-code-openclaw-node",
+  "vendor": "anthropic",
+  "amount_cents": 20000,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "credit-card",
+  "justification": {
+    "what": "2x Claude Code Pro Max monthly subscriptions (ngothientuong@gmail.com + tuongdevops1@gmail.com)",
+    "where": "claude.ai/settings/billing",
+    "why": "Required for Claude Code CLI OAuth tokens \u2014 only Pro Max tier supports headless Claude Code execution for OpenClaw Node slots",
+    "who": "user-initiated, agent-assisted OAuth setup",
+    "how_helps": "Enables 4 concurrent Claude Code slots (2 per account) for autonomous task execution via OpenClaw Gateway dispatch",
+    "expected_return": "Full autonomous AI workforce \u2014 coding, research, review tasks dispatched via Gateway without manual intervention"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "github-copilot",
+  "awp_phase": "Phase 3",
+  "awp_slice": "OAuth Setup"
+}

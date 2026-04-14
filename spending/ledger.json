@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-11T19:55:19Z",
+  "updated_at": "2026-04-14T22:02:05Z",
   "projects": {
     "e2e-test": {
       "monthly_ceiling_cents": 100000,
@@ -39,6 +39,16 @@
           "spent_cents": 61000,
           "transaction_count": 9,
           "last_transaction_at": "2026-04-11T19:55:19Z"
+        }
+      }
+    },
+    "claude-code-openclaw-node": {
+      "monthly_ceiling_cents": 100000,
+      "months": {
+        "2026-04": {
+          "spent_cents": 20000,
+          "transaction_count": 1,
+          "last_transaction_at": "2026-04-14T22:02:05Z"
         }
       }
     }
