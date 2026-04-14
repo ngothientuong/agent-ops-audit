@@ -1,0 +1,14 @@
+{
+  "service": "anthropic-claude-code-pro-max",
+  "vendor": "anthropic",
+  "account_email": "tuongdevops1@gmail.com",
+  "plan": "Claude Max ($100/mo)",
+  "billing_cycle": "monthly",
+  "auto_renewal": false,
+  "slots_configured": ["acct2-slot1", "acct2-slot2"],
+  "project": "claude-code-openclaw-node",
+  "cli_version": "2.1.108",
+  "model": "Opus 4.6 (1M context)",
+  "oauth_completed": true,
+  "created_by": "user-initiated, agent-assisted"
+}
