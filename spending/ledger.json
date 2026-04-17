@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-14T22:02:05Z",
+  "updated_at": "2026-04-17T19:30:56Z",
   "projects": {
     "e2e-test": {
       "monthly_ceiling_cents": 100000,
@@ -49,6 +49,16 @@
           "spent_cents": 20000,
           "transaction_count": 1,
           "last_transaction_at": "2026-04-14T22:02:05Z"
+        }
+      }
+    },
+    "trading": {
+      "monthly_ceiling_cents": 100000,
+      "months": {
+        "2026-04": {
+          "spent_cents": 16500,
+          "transaction_count": 1,
+          "last_transaction_at": "2026-04-17T19:30:56Z"
         }
       }
     }

@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-17T19-30-55-rithmic-trading",
+  "timestamp": "2026-04-17T19:30:55Z",
+  "project": "trading",
+  "vendor": "rithmic",
+  "amount_cents": 16500,
+  "currency": "USD",
+  "category": "subscription",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Rithmic monthly \u2014 $100 platform access + $65 CME L3 market data feed",
+    "where": "rithmic.com",
+    "why": "Live market data ingestion for 3-lane trading architecture \u2014 CME L3 tick feed required for snapshots, features, and labels pipeline",
+    "who": "tngo (user-directed, trading personal account)",
+    "how_helps": "Provides the raw L3 order book feed that powers offline_live_processing.md pipeline; without Rithmic there is no live lane",
+    "expected_return": "Core infrastructure for trading PnL \u2014 enables live = offline parity and bandit-driven execution"
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
