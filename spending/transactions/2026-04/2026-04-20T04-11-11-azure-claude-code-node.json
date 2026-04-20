@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-20T04-11-10-azure-claude-code-node",
+  "timestamp": "2026-04-20T04:11:10Z",
+  "project": "claude-code-node",
+  "vendor": "azure",
+  "amount_cents": 5,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "ACR multi-arch image push: tngomgmtacr.azurecr.io/ccn/slot:round-13-a222a1a (linux/amd64 + linux/arm64)",
+    "where": "Azure Container Registry (tngomgmtacr) \u2014 resource group tngomgmt",
+    "why": "CCN round-13.1 plugin enrichment: activate Obsidian skill pack (ArtemXTech/personal-os-skills @ 0c0cf5a0), reclassify GitNexus as operator-internal V1.5+ (not a third-party plugin). Image carries refreshed seed baseline.",
+    "who": "CCN implementer agent under standing operator authorization (Nexus idea: acr-multi-arch-push-standing-operator-authorization-for-ccn, captured 2026-04-19)",
+    "how_helps": "Publishes multi-arch CCN worker image so operator and tenant deployments pull a consistent baseline with Obsidian activated; unblocks round-13 closeout and future plugin-triggered rebuilds.",
+    "expected_return": "Zero incremental revenue \u2014 infra plumbing. Keeps CI + deploy parity valid so downstream tenant onboarding (V1) stays unblocked."
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
