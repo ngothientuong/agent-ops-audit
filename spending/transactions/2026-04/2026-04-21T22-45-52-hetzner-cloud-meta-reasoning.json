@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-21T22-45-51-hetzner-cloud-meta-reasoning",
+  "timestamp": "2026-04-21T22:45:51Z",
+  "project": "meta-reasoning",
+  "vendor": "hetzner-cloud",
+  "amount_cents": 2049,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "Hetzner cpx31 x86 (4vCPU/8GB/160GB) in ash running idea-nexus stack.",
+    "where": "Hetzner ash; id 127682708; IP 178.156.173.184.",
+    "why": "Migrate Nexus from Vultr per lift-and-ship hard-gate; consolidate dogfood to Hetzner.",
+    "who": "Operator directive 2026-04-21 PM; agent executed backup + restore + DNS flip + Vultr destroy.",
+    "how_helps": "Full Hetzner dogfood stack at 29.98 EUR/mo vs prior ~120 USD/mo Vultr; 73% cost reduction.",
+    "expected_return": "~88 USD/mo saved, ~1050 USD/yr; funds LiteLLM/GrowthBook/Drata onboarding."
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
