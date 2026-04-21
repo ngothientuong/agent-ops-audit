@@ -1,0 +1,17 @@
+{
+  "vendor": "Hetzner Cloud",
+  "account_email": "tuongdevops1@gmail.com",
+  "plan": "Pay-as-you-go (billing on usage)",
+  "billing_type": "business",
+  "created_at": "2026-04-21",
+  "credentials_stored": [
+    "hetzner-api-token-ngothientuong",
+    "hetzner-s3-access-key-ngothientuong",
+    "hetzner-s3-secret-key-ngothientuong",
+    "hetzner-ssh-key-name"
+  ],
+  "estimated_monthly_usd": 200,
+  "auto_renewal": false,
+  "purpose": "Migration target for meta-reasoning, hallucination-sanitizer, idea-nexus MCP stack from Vultr — cost optimization",
+  "project": "infrastructure"
+}
