@@ -1,0 +1,15 @@
+{
+  "vendor": "elevenlabs",
+  "service_url": "https://elevenlabs.io",
+  "plan": "Creator",
+  "identity_used": "ngothientuong personal (dogfood)",
+  "excluded_identity": "tuongdevops1@gmail.com",
+  "credential_storage": "Azure KV — openclaw-elevenlabs-api-key-ngothientuong (retroactive — key already existed)",
+  "auto_renewal": false,
+  "first_charge_usd": 11,
+  "ongoing_charge_usd": 22,
+  "category": "ai-narration-tts",
+  "project": "operator-fleet-ops",
+  "signup_date": "retroactive-2026-04-24",
+  "notes": "API key already in KV before this log; this is a retroactive tracking entry per operator directive"
+}
