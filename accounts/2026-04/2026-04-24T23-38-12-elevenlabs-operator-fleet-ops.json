@@ -1,0 +1,28 @@
+{
+  "vendor": "elevenlabs",
+  "service_name": "ElevenLabs Creator Plan",
+  "plan": "Creator",
+  "project": "operator-fleet-ops",
+  "category": "ai-narration-tts",
+  "purpose": "Natural-voice narration for operator-fleet-ops cockpit walkthroughs, social-media reel TTS, and future Boofire commercial outreach TTS",
+  "credentials_stored": [
+    {
+      "kv_key": "elevenlabs-api-key",
+      "stored_at": "pre-2026-04-24",
+      "stored_by": "operator-manual"
+    }
+  ],
+  "billing": {
+    "first_month_charge_cents": 1100,
+    "recurring_monthly_cents": 2200,
+    "currency": "USD",
+    "preferred_payment_method": "paypal",
+    "auto_renewal": true,
+    "auto_renewal_hard_gate_status": "FLAGGED-PENDING-OPERATOR-CONFIRMATION",
+    "hard_gate_reference": "credential-workflow.instructions.md :: Set auto_renewal: false on ALL subscriptions"
+  },
+  "log_type": "retroactive",
+  "logged_at": "2026-04-24",
+  "logged_by": "ccmac-ngo-orchestrator",
+  "notes": "API key already in KV prior to this entry; no signup workflow executed; no 2FA required."
+}
