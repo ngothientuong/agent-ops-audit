@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-24T23-40-12-elevenlabs-operator-fleet-ops",
+  "timestamp": "2026-04-24T23:40:12Z",
+  "project": "operator-fleet-ops",
+  "vendor": "elevenlabs",
+  "amount_cents": 1100,
+  "currency": "USD",
+  "category": "subscription",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "ElevenLabs Creator-tier subscription \u2014 first-month charge ($11.00) of $22/mo recurring TTS service. Retroactive log entry; Azure-KV API key (elevenlabs-api-key) provisioned by operator prior to this log.",
+    "where": "ElevenLabs cloud SaaS (api.elevenlabs.io) \u2014 consumed by operator-fleet-ops/pillars/media TTS handler at runtime, locally cached SHA-256 audio in pillar volume.",
+    "why": "Natural-voice narration is required for: (1) operator-fleet-ops cockpit walkthroughs (visual onboarding for fleet-ops dashboard); (2) Boofire social-media reel TTS; (3) future Boofire commercial outreach voice-overs. Creator-tier voice quality + monthly character allowance justify $22/mo OpEx vs free/lower-tier alternatives that lack production-grade voices.",
+    "who": "ngothientuong (Boofire / AnAn's Store LLC) \u2014 sole operator. Project=operator-fleet-ops. Vendor billing email = tuong@boofire.ai.",
+    "how_helps": "Eliminates manual voice-over recording bottleneck. Enables async generation of narration for cockpit walkthroughs (per-pillar) + social-reel batch + future outbound commercial TTS. Compounds: each generated voice is cached SHA-256 keyed, so repeat content costs $0 in characters.",
+    "expected_return": "Direct: cockpit dashboard onboarding walkthroughs (operator + future-customer demo). Indirect: Boofire content-funnel reels feeding D3 funneling pillar (organic\u2192qualified prospect conversion); future commercial outreach TTS supporting outbound sales for client SKUs. ROI break-even at ~5 minutes of voice-over generated/month vs equivalent vendor (Resemble/PlayHT/etc)."
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
