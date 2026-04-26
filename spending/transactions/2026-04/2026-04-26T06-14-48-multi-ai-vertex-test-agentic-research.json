@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-26T06-14-47-multi-ai-vertex-test-agentic-research",
+  "timestamp": "2026-04-26T06:14:47Z",
+  "project": "agentic-research",
+  "vendor": "multi-ai-vertex-test",
+  "amount_cents": 5,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "8 PONG ping tests adding Vertex AI Gemini path: 4 probe rounds (auth/model-id/global-endpoint/list) + 3 final 3-AI parallel + 1 helper-only test. Estimated cumulative ~$0.05 across OpenAI gpt-5.5, DeepSeek deepseek-reasoner, Vertex AI gemini-3.1-pro-preview.",
+    "where": "operator-Mac CCMAC, .github/scripts/cross-ai-reviewer.py + .github/scripts/_vertex_gemini_helper.py",
+    "why": "Operator pushback ('What happens with my other Vertex key?!?') \u2014 agent had dismissed gc-tuong-sp-key-json as incompatible. Probing proved Vertex AI works via SP-key OAuth2 token exchange + global endpoint. Wired it into cross-ai-reviewer as the default Gemini path so /research-with-ais runs at full 3-AI parallel without provisioning a separate AI Studio API key.",
+    "who": "ccmac-ngo-orchestrator (operator-Mac VS Code Claude Code, Opus 4.7 1M)",
+    "how_helps": "Closes the Gemini gap from prior PR. Operator's existing GCP SP key is now the auth source (zero new keys needed). /research-with-ais becomes 3-for-3 instead of 2-for-3.",
+    "expected_return": "Operator unblocked on full-parallel cross-AI review. Saves ~5 min per research cycle vs. browser fallback. GCP billing surface for Gemini queries (separate from AI Studio billing)."
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
