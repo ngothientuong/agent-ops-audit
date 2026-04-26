@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-26T05-51-52-multi-ai-test-agentic-research",
+  "timestamp": "2026-04-26T05:51:52Z",
+  "project": "agentic-research",
+  "vendor": "multi-ai-test",
+  "amount_cents": 5,
+  "currency": "USD",
+  "category": "one-time",
+  "payment_method": "paypal",
+  "justification": {
+    "what": "5 PONG ping tests against cross-ai-reviewer.py: 2x ChatGPT (gpt-5.5), 1x DeepSeek (deepseek-reasoner), 2x failed pre-fix runs that did not consume tokens",
+    "where": "operator-Mac CCMAC, .github/scripts/cross-ai-reviewer.py",
+    "why": "Verify gpt-5.5 + gemini-3.1-pro-preview model-ID bump and openclaw-openai-api-key-ngothientuong KV name fix work end-to-end before shipping PR to operator+CCN dogfood",
+    "who": "ccmac-ngo-orchestrator (operator-Mac VS Code Claude Code, Opus 4.7 1M)",
+    "how_helps": "Confirms /research-with-ais API-parallel mode is functional (was previously broken with stale model IDs gpt-5 / gemini-2.5-pro and missing KV name resolution). Unblocks shipping the model-ID + KV-name fix.",
+    "expected_return": "Operator's research-with-ais workflow goes from 0/3 working to 2/3 (ChatGPT + DeepSeek). Saves 5-10 min per research cycle vs. browser-paste fallback. Gemini still pending API key provisioning (separate tech-debt)."
+  },
+  "auto_renewal": false,
+  "approved_by": "user",
+  "agent": "unknown",
+  "awp_phase": "",
+  "awp_slice": ""
+}
