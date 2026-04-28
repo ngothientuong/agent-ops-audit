@@ -1,0 +1,7 @@
+{
+  "vendor": "azure",
+  "image": "tngomgmtacr.azurecr.io/ccn-slot:v1.26",
+  "digest": "sha256:27582f90cad1ba1c27b5e875d652270cf91715bc34dcd0da5ed067285cf015c0",
+  "platforms": "linux/amd64,linux/arm64",
+  "note": "ccn-slot multi-arch release push"
+}
