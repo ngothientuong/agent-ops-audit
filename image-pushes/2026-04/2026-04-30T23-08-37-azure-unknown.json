@@ -1,0 +1,7 @@
+{
+  "vendor": "azure",
+  "image": "tngomgmtacr.azurecr.io/ccn-slot:v1.29",
+  "digest": "sha256:ca6ef5d1e09059a2f32ea284719d1e1ebc6a6580e4e513600fbf2221dbc54fcc",
+  "platforms": "linux/amd64,linux/arm64",
+  "note": "ccn-slot v1.29 \u2014 F1 unified fix (PR #128 / claude-user dual-HOME provisioning via symlinks)"
+}
